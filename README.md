@@ -1,15 +1,13 @@
 # GitHub Home Page
 
-An animated web app built using Next.js, Tailwind CSS, and Framer Motion.
-
-<img width="1440" alt="Screenshot 2024-06-09 at 4 06 28 AM" src="https://github.com/Sattu2806/GitHub-Clone/assets/127772255/0d65dca0-4c53-4e72-b4cb-f078f84edd9f">
-
+An animated web app built by Wistant Kode using Next.js, Tailwind CSS, and Framer Motion.
 
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
+- [Contact](#contact)
 - [License](#license)
 
 ## Overview
@@ -28,7 +26,7 @@ This project is a frontend web application that mimics the GitHub home page with
 ## Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Sattu2806/GitHub-Clone.git
+   git clone https://github.com/Wistant-Kode/GitHubHomepageClone.git
 
 2. **Install dependencies**:
    ```bash
@@ -37,5 +35,10 @@ This project is a frontend web application that mimics the GitHub home page with
 3. **Run the development server**:
    ```bash
    npm run dev
+
+## Contact
+- **Email**: wistantkode@protonmail.com
+- **Website**: wistant.vercel.com
+- **Phone**: +237697135341
 
 # GithubHomepageClone
